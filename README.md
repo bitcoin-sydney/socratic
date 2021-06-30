@@ -11,6 +11,8 @@ The meeting links are usually posted in the telegram chat just before it starts.
 
 If you'd like to discuss a topic at the next meeting please make a pull request (log in to GitHub and click edit button at the top right of this page) or open an issue.
 
+You can find IRC logs of a selection of previous meetings here: https://diyhpl.us/wiki/transcripts/sydney-bitcoin-meetup/
+
 ## Meetings
 
 ### 2021-08
