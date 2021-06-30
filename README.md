@@ -19,9 +19,9 @@ You can find IRC logs of a selection of previous meetings here: https://diyhpl.u
 
 **Tuesday August 10th 7pm AEST (9am UTC)**
 
-#### Bitcoin <-> Monero Atomic swap developed by [CoBloX](https://coblox.tech/)
+#### Bitcoin <-> Monero Atomic swap developed
 
-Sydney Research Lab is going to give us the latest on their Bitcoin to Monero atomic swap protocol.
+The [CoBloX](https://coblox.tech/) Sydney Research Lab is going to give us the latest on their Bitcoin to Monero atomic swap protocol.
 There are several difficulties with this since they use different elliptic curves and very different signature/transaction authorization schemes.
 
    - Code and further description https://github.com/comit-network/xmr-btc-swap
