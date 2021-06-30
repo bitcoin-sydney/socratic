@@ -13,6 +13,18 @@ If you'd like to discuss a topic at the next meeting please make a pull request 
 
 ## Meetings
 
+### 2021-08
+
+**Tuesday August 10th 7pm AEST (9am UTC)**
+
+#### Bitcoin <-> Monero Atomic swap developed by [CoBloX](https://coblox.tech/)
+
+Sydney Research Lab is going to give us the latest on their Bitcoin to Monero atomic swap protocol.
+There are several difficulties with this since they use different elliptic curves and very different signature/transaction authorization schemes.
+
+   - Code and further description https://github.com/comit-network/xmr-btc-swap
+   - Paper: https://arxiv.org/pdf/2101.12332.pdf
+
 ### 2021-07
 
 **Tuesday July 6th 7pm AEST (9am UTC)**
@@ -34,17 +46,5 @@ This meeting will be more-or-less dedicated to discussion of fee bumping and lay
 Links:
    - Bitcoin problem page: https://bitcoin-problems.github.io/problems/fee-bumping.html
    - Summary of first irc meetings courtesy of Michael Folkson: [1](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019079.html), [2](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-June/003077.html)
-
-### 2021-08
-
-**Tuesday August 10th 7pm AEST (9am UTC)**
-
-#### Bitcoin <-> Monero Atomic swap developed by [CoBloX](https://coblox.tech/)
-
-Sydney Research Lab is going to give us the latest on their Bitcoin to Monero atomic swap protocol.
-There are several difficulties with this since they use different elliptic curves and very different signature/transaction authorization schemes.
-
-   - Code and further description https://github.com/comit-network/xmr-btc-swap
-   - Paper: https://arxiv.org/pdf/2101.12332.pdf
 
 [BIP125]: https://github.com/bitcoin/bips/blob/master/bip-0125.mediawiki
