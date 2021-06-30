@@ -29,7 +29,7 @@ There are several difficulties with this since they use different elliptic curve
 
 ### 2021-07
 
-**Tuesday July 6th 7pm AEST (9am UTC)**
+**Tuesday July 6th 7pm AEST (9am UTC) [Meetup Link](https://www.meetup.com/Bitcoin_Sydney/events/279162160/)**
 
 This meeting will be more-or-less dedicated to discussion of fee bumping and layer-2 protocols.
 
