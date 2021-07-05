@@ -27,6 +27,10 @@ There are several difficulties with this since they use different elliptic curve
    - Code and further description https://github.com/comit-network/xmr-btc-swap
    - Paper: https://arxiv.org/pdf/2101.12332.pdf
 
+#### Differentially Private Payment Channels in Lightning
+
+[Gijs van Dam](https://www.gijsvandam.nl) will do a walkthrough of his latest work on [differentially private payment channels](https://asciinema.org/a/6U2Y6iGrdwwvRoNqUYuOi9snP). 
+
 ### 2021-07
 
 **Tuesday July 6th 7pm AEST (9am UTC) [Meetup Link](https://www.meetup.com/Bitcoin_Sydney/events/279162160/)**
