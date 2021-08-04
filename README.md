@@ -17,15 +17,20 @@ You can find IRC logs of a selection of previous meetings here: https://diyhpl.u
 
 ### 2021-08
 
+**HOME GROWN EDITION**
 **Tuesday August 10th 7pm AEST (9am UTC)**
+Both presentations this week come from Bitcoin Sydney regulars!
 
-#### Bitcoin <-> Monero Atomic swap developed
+#### Bitcoin <-> Monero Atomic swap
 
-The [CoBloX](https://coblox.tech/) Sydney Research Lab is going to give us the latest on their Bitcoin to Monero atomic swap protocol.
+The [CoBloX](https://coblox.tech/) Sydney Research Lab is going to give us a technical run down on their Monero to Bitcoin atomic swap protocol.
+Their atomic swap design is based on the [Succinct Atomic Swap](https://gist.github.com/RubenSomsen/8853a66a64825716f51b409be528355f) which was developed by Ruben Somsen.
 There are several difficulties with this since they use different elliptic curves and very different signature/transaction authorization schemes.
 
    - Code and further description https://github.com/comit-network/xmr-btc-swap
    - Paper: https://arxiv.org/pdf/2101.12332.pdf
+
+I hope to tag on a discussion of the relevance of atomic swaps in a Bitcoin only future.
 
 #### Differentially Private Payment Channels in Lightning
 
