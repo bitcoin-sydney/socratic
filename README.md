@@ -27,7 +27,7 @@ Both presentations this week come from Bitcoin Sydney regulars!
 
 The [CoBloX](https://coblox.tech/) Sydney Research Lab is going to give us a technical run down on their Monero to Bitcoin atomic swap protocol.
 Their atomic swap design is based on the [Succinct Atomic Swap](https://gist.github.com/RubenSomsen/8853a66a64825716f51b409be528355f) which was developed by Ruben Somsen.
-There are several difficulties with this since they use different elliptic curves and very different signature/transaction authorization schemes.
+There are several difficulties with BTC<->Monero atomic swaps since they use different elliptic curves and very different signature/transaction authorization schemes.
 
    - Code and further description https://github.com/comit-network/xmr-btc-swap
    - Paper: https://arxiv.org/pdf/2101.12332.pdf
