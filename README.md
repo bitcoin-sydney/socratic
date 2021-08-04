@@ -18,7 +18,9 @@ You can find IRC logs of a selection of previous meetings here: https://diyhpl.u
 ### 2021-08
 
 **HOME GROWN EDITION**
-**Tuesday August 10th 7pm AEST (9am UTC)**
+
+**Tuesday August 10th 7pm AEST (9am UTC)** [Meetup Link](https://www.meetup.com/Bitcoin_Sydney/events/279898203)
+
 Both presentations this week come from Bitcoin Sydney regulars!
 
 #### Bitcoin <-> Monero Atomic swap
