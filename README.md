@@ -13,7 +13,29 @@ If you'd like to discuss a topic at the next meeting please make a pull request 
 
 You can find IRC logs of a selection of previous meetings here: https://diyhpl.us/wiki/transcripts/sydney-bitcoin-meetup/
 
+Videos of some of our meetings are on [Rumble](https://rumble.com/c/c-1038361).
+
 ## Meetings
+
+
+
+### 2021-10
+
+**Tuesday October 10th 7pm AEDT (8am UTC)**
+
+_Discuss in [the issue](https://github.com/bitcoin-sydney/socratic/issues/2)_
+
+### 2021-09
+
+**Tuesday September 7th 7pm AEST (9am UTC)**
+
+Lukas Aumayr will be taking us through his latest research [*Donner: UTXO-Based Virtual Channels Across Multiple Hops*](https://eprint.iacr.org/2021/855.pdf).
+This applies the trick used in [*Blitz: Secure Multi-Hop Payments Without Two-Phase Commits∗](https://eprint.iacr.org/2021/176.pdf) (which he previously presented to us) to acheive _virtual channels_ with nice properties.
+Virtual channels enable two parties without a direct channel to temporarily create a direct channel.
+Although payments work fine without direct channels other layer-2 applications are not easily to do without direct channels.
+
+
+This meeting will be recorded and put on rumble.
 
 ### 2021-08
 
