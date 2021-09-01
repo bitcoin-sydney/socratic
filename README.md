@@ -27,7 +27,7 @@ _Discuss in [the issue](https://github.com/bitcoin-sydney/socratic/issues/2)_
 
 ### 2021-09
 
-**Tuesday September 7th 7pm AEST (9am UTC)**
+**Tuesday September 7th 7pm AEST (9am UTC)** [Meetup Link](https://www.meetup.com/Bitcoin_Sydney/events/280479952/)
 
 Lukas Aumayr will be taking us through his latest research [*Donner: UTXO-Based Virtual Channels Across Multiple Hops*](https://eprint.iacr.org/2021/855.pdf).
 This applies the trick used in [*Blitz: Secure Multi-Hop Payments Without Two-Phase Commits∗](https://eprint.iacr.org/2021/176.pdf) (which he previously presented to us) to acheive _virtual channels_ with nice properties.
