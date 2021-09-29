@@ -31,7 +31,7 @@ Lloyd Fournier will be presenting his "DLCs/betting over twitter" project [`gun`
 See the documentation at https://gun.fun.
 This bit will be recorded.
 
-Then we'll have a non-recorded dicussion on [TAPLEAF_UPDATE_VERIFY](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019419.html)
+Then we'll have a non-recorded discussion on [TAPLEAF_UPDATE_VERIFY](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019419.html)
 
 ### 2021-09
 
