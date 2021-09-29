@@ -17,7 +17,11 @@ Videos of some of our meetings are on [Rumble](https://rumble.com/c/c-1038361).
 
 ## Meetings
 
+### 2021-11
 
+**Tuesday November 2nd 7pm AEDT (8am UTC)**
+
+*dicuss in the [issue](https://github.com/bitcoin-sydney/socratic/issues/3)
 
 ### 2021-10
 
