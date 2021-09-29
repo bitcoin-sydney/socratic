@@ -21,9 +21,13 @@ Videos of some of our meetings are on [Rumble](https://rumble.com/c/c-1038361).
 
 ### 2021-10
 
-**Tuesday October 10th 7pm AEDT (8am UTC)**
+**Tuesday October 5th 7pm AEDT (8am UTC)**
 
-_Discuss in [the issue](https://github.com/bitcoin-sydney/socratic/issues/2)_
+Lloyd Fournier will be presenting his "DLCs/betting over twitter" project [`gun`](https://github.com/LLFourn/gun).
+See the documentation at https://gun.fun.
+This bit will be recorded.
+
+Then we'll have a non-recorded dicussion on [TAPLEAF_UPDATE_VERIFY](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-September/019419.html)
 
 ### 2021-09
 
