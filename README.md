@@ -25,7 +25,7 @@ Videos of some of our meetings are on [Rumble](https://rumble.com/c/c-1038361).
 
 ### 2021-10
 
-**Tuesday October 5th 7pm AEDT (8am UTC)**
+**Tuesday October 5th 7pm AEDT (8am UTC)** [meetup link](https://www.meetup.com/Bitcoin_Sydney/events/281087671)
 
 Lloyd Fournier will be presenting his "DLCs/betting over twitter" project [`gun`](https://github.com/LLFourn/gun).
 See the documentation at https://gun.fun.
