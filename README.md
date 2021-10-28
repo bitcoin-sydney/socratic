@@ -23,6 +23,19 @@ Videos of some of our meetings are on [Rumble](https://rumble.com/c/c-1038361).
 
 *dicuss in the [issue](https://github.com/bitcoin-sydney/socratic/issues/3)
 
+This week we'll be discussing the following topics:
+
+1. Package relay:
+   1. Mailing list post: https://gist.github.com/glozow/dc4e9d5c5b14ade7cdfac40f43adb18a
+   2. PR: https://github.com/bitcoin/bitcoin/pull/22674
+2. PTLCs in Taproot
+   1. https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003278.html
+3. BONUS: If there's time it'd be fun to talk about what would happen to the value of Bitcoin in a 51% attack:
+   1. Writeup that started discussion: https://gist.github.com/fernandonm/ef9721bacf7284e039caf39ba2a07258
+   2. thread 1: https://twitter.com/fnietom/status/1452335538573389828
+   3. thread 2: https://twitter.com/SomsenRuben/status/1452365125852274695
+
+
 ### 2021-10
 
 **Tuesday October 5th 7pm AEDT (8am UTC)** [meetup link](https://www.meetup.com/Bitcoin_Sydney/events/281087671)
