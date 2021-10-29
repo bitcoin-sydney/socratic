@@ -27,7 +27,7 @@ This week we'll be discussing the following topics:
 
 1. Package relay:
    1. Mailing list post: https://gist.github.com/glozow/dc4e9d5c5b14ade7cdfac40f43adb18a
-   2. PR: https://github.com/bitcoin/bitcoin/pull/22674
+   2. PRs: (i) https://github.com/bitcoin/bitcoin/pull/22290 (ii) https://github.com/bitcoin/bitcoin/pull/22674
 2. PTLCs in Lightning with Taproot
    1. https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003278.html
 3. BONUS: If there's time it'd be fun to talk about what would happen to the value of Bitcoin in a 51% attack:
