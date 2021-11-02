@@ -34,6 +34,7 @@ This week we'll be discussing the following topics:
    1. Writeup that started discussion: https://gist.github.com/fernandonm/ef9721bacf7284e039caf39ba2a07258
    2. thread 1: https://twitter.com/fnietom/status/1452335538573389828
    3. thread 2: https://twitter.com/SomsenRuben/status/1452365125852274695
+   4. follow up: https://gist.github.com/fernandonm/6844b85973c3a3b7ceb92979c8a7281d
 
 
 ### 2021-10
