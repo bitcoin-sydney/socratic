@@ -17,6 +17,17 @@ Videos of some of our meetings are on [Rumble](https://rumble.com/c/c-1038361).
 
 ## Meetings
 
+### 2021-12
+
+**Tuesday December 7th 7pm AEDT (8am UTC) -- RECORDED**
+
+**ZERO BASE FEE EDITION**
+
+This week Rene Pickhardt will present his research on lightning route opimtization "Optimally Reliable & Cheap Payment Flows on the Lightning Network".
+
+1. The paper: https://arxiv.org/pdf/2107.05322.pdf
+2. Mailing list post: https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-August/003203.html
+
 ### 2021-11
 
 **Tuesday November 2nd 7pm AEDT (8am UTC)** [meetup link](https://www.meetup.com/Bitcoin_Sydney/events/281708383/)
