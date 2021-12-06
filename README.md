@@ -27,6 +27,7 @@ This week Rene Pickhardt will present his research on lightning route opimtizati
 
 1. The paper: https://arxiv.org/pdf/2107.05322.pdf
 2. Mailing list post: https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-August/003203.html
+3. Earlier paper: https://arxiv.org/pdf/2103.08576.pdf
 
 ### 2021-11
 
