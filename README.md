@@ -17,6 +17,22 @@ Videos of some of our meetings are on [Rumble](https://rumble.com/c/c-1038361).
 
 ## Meetings
 
+### 2022-01
+
+**Tuesday December 25th 7pm AEDT (8am UTC) -- RECORDED**
+
+**CFD DEGEN EDDITION**
+
+The main even for this week's Socratic is Sydney based Bitcoin research lab [CoBloX] presenting their Bitcoin *Contract for a Difference* protcol being used by [ItchySats].
+This is effectively a layer-2 DLC in a channel that can be *rolled over*.
+Unlike a typical DLC on a price at a time X, the parties can continually move back the expiration time if they agree to do so.
+
+- ItchySats announcement: https://itchysats.medium.com/itchysats-roadmap-to-the-most-awesome-bitcoin-dex-464a42bf4881
+- CoBloX technical protocol explanation: https://comit.network/blog/2022/11/01/cfd-protocol-explained
+
+If we have time after that we'll chill and discuss [`OP_CTV`] developments (and drama) or whatever else people want to bring up.
+This bit won't be recorded.
+
 ### 2021-12
 
 **Tuesday December 7th 7pm AEDT (8am UTC) -- RECORDED**
@@ -81,7 +97,7 @@ Both presentations this week come from Bitcoin Sydney regulars!
 
 #### Bitcoin <-> Monero Atomic swap
 
-The [CoBloX](https://coblox.tech/) Sydney Research Lab is going to give us a technical run down on their Monero to Bitcoin atomic swap protocol.
+The [CoBloX] Sydney Research Lab is going to give us a technical run down on their Monero to Bitcoin atomic swap protocol.
 Their atomic swap design is based on the [Succinct Atomic Swap](https://gist.github.com/RubenSomsen/8853a66a64825716f51b409be528355f) which was developed by Ruben Somsen.
 There are several difficulties with BTC<->Monero atomic swaps since they use different elliptic curves and very different signature/transaction authorization schemes.
 
@@ -117,3 +133,6 @@ Links:
    - Summary of first irc meetings courtesy of Michael Folkson: [1](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-June/019079.html), [2](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-June/003077.html)
 
 [BIP125]: https://github.com/bitcoin/bips/blob/master/bip-0125.mediawiki
+[CoBloX]: https://coblox.tech/
+[ItchySats]: https://www.itchysats.network/
+[`OP_CTV`]: https://bitcoinops.org/en/topics/op_checktemplateverify/
