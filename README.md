@@ -23,8 +23,9 @@ Videos of some of our meetings are on [Rumble](https://rumble.com/c/c-1038361).
 
 Bitcoin Schnorr/Taproot Threshold Multi-signatures edition.
 
-This month we're going to be talking to Jesse Posner  @jesseposner about what the implementation of Bitcoin schnorr "scriptless" threshold multi-signatures:
+What will the multi-sig setups of the future look like?
 
+This month we're going to be talking to Jesse Posner @jesseposner about the ongoing effort to implement Schnorr threshold multi-signatures. With these you can create a 2 of 3, or a 3 of 5 etc that is indistinguishable from a regular single key spend.
 Background watching/reading:
 
 1. The Quest for Practical Threshold Schnorr Signatures - Tim Ruffing - CES Summit '19: https://www.youtube.com/watch?v=Wy5jpgmmqAg
