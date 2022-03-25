@@ -17,6 +17,28 @@ Videos of some of our meetings are on [Rumble](https://rumble.com/c/c-1038361).
 
 ## Meetings
 
+### 2022-03
+
+**Tuesday Mach 29th 7pm AEDT (8am UTC) -- RECORDED**
+
+Bitcoin Schnorr/Taproot Threshold Multi-signatures edition.
+
+This month we're going to be talking to Jesse Posner  @jesseposner about what the implementation of Bitcoin schnorr "scriptless" threshold multi-signatures:
+
+Background watching/reading:
+
+1. The Quest for Practical Threshold Schnorr Signatures - Tim Ruffing - CES Summit '19: https://www.youtube.com/watch?v=Wy5jpgmmqAg
+
+2. FROST: Flexible Round-Optimized Schnorr Threshold Signatures: https://eprint.iacr.org/2020/852.pdf
+
+In progress implementations:
+
+1. https://github.com/ElementsProject/secp256k1-zkp/pull/138#issuecomment-1007655837
+
+2. https://github.com/LLFourn/secp256kfun/tree/frost
+
+
+
 ### 2022-01
 
 **Tuesday December 25th 7pm AEDT (8am UTC) -- RECORDED**
