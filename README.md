@@ -17,6 +17,21 @@ Videos of some of our meetings are on [Rumble](https://rumble.com/c/c-1038361).
 
 ## Meetings
 
+### 2022-04
+
+**Tuesday April 26th 7pm AEST (9am UTC) -- RECORDED**
+
+SILENT PAYMENTS EDITION
+
+Sydney Socratic Regular Ruben Somsen will be presenting his latest breakthrough: Silent Payments.
+This is a scheme for taking a static address and deriving a new one from it yourself before sending to it without interacting with the receiver and without anyone other than the receiver being able to link the two addresses.
+Existing schemes like [BIP47](https://github.com/bitcoin/bips/blob/master/bip-0047.mediawiki) do this by signalling extra data through the blockchain.
+Silent payments don't need this so they are more efficient and leave no trace that this protocol is even being used.
+The main downside is that it is more computationally expensive for the receiver to find payments.
+
+- Mailing list post: https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-March/020180.html
+- pre-BIP: https://gist.github.com/RubenSomsen/c43b79517e7cb701ebf77eec6dbb46b8
+
 ### 2022-03
 
 **Tuesday March 29th 7pm AEDT (8am UTC) -- RECORDED ([video](https://rumble.com/vz3i3u-frost-the-future-of-schnorr-multisignatures-on-bitcoin.html))**
