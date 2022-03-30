@@ -19,7 +19,7 @@ Videos of some of our meetings are on [Rumble](https://rumble.com/c/c-1038361).
 
 ### 2022-03
 
-**Tuesday Mach 29th 7pm AEDT (8am UTC) -- RECORDED**
+**Tuesday March 29th 7pm AEDT (8am UTC) -- RECORDED ([video](https://rumble.com/vz3i3u-frost-the-future-of-schnorr-multisignatures-on-bitcoin.html))**
 
 Bitcoin Schnorr/Taproot Threshold Multi-signatures edition.
 
