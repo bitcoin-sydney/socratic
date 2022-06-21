@@ -24,6 +24,8 @@ ORDINAL NUMBERS NFTs EDITION
 
 Casey Rodarmor will present his "Satoshi Ordinals" colored coin proposal. This proposal gives every satoshi a unique positoin in the total set of satoshis whose identity doesn't change even after a transaction spends it.
 
+The proposal: https://github.com/casey/ord
+
 ### 2022-04
 
 **Tuesday April 26th 7pm AEST (9am UTC) -- RECORDED**
