@@ -17,6 +17,13 @@ Videos of some of our meetings are on [Rumble](https://rumble.com/c/c-1038361).
 
 ## Meetings
 
+
+### **2022-06 June 28th 7pm AEST (9am UTC) -- RECORDED**
+
+ORDINAL NUMBERS NFTs EDITION
+
+Casey Rodarmor will present his "Satoshi Ordinals" colored coin proposal. This proposal gives every satoshi a unique positoin in the total set of satoshis whose identity doesn't change even after a transaction spends it.
+
 ### 2022-04
 
 **Tuesday April 26th 7pm AEST (9am UTC) -- RECORDED**
